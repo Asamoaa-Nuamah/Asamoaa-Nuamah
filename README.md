@@ -5,9 +5,9 @@ I'm a Computer Engineering graduate interested in software development and build
 # 🚀 What I'm currently working on
 
 * 🐍 Building and improving Python projects, including my Personal Expense Tracker
-* 🌐 Learning JavaScript and working toward full-stack development
+* 🌐 Learning JavaScript and working toward full stack development
 * ⚙️ Strengthening my backend and software engineering skills
-* 🤖 Exploring AI and data-driven applications
+* 🤖 Exploring AI and data driven applications
 
 # 🛠️ Tech Stack
 
