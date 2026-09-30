@@ -1,13 +1,13 @@
 # Hello, I'm Hafsa 
 
-I'm a Computer Engineering graduate interested in software development and building practical solutions with technology. I enjoy working with Python and backend development, and I'm currently expanding my skills in JavaScript and full stack development.
+I'm a Computer Engineering graduate interested in software development and building practical solutions with technology. I enjoy working with Python and backend development, and I'm currently expanding my skills in JavaScript and full-stack development.
 
 ## What I'm currently working on
 
-* Building and improving Python projects, including my Personal Expense Tracker
-* Learning JavaScript and working toward full stack development
-* Strengthening my backend and software engineering skills
-* Exploring AI and data driven applications
+- Building and improving Python projects, including my Personal Expense Tracker
+- Exploring backend reliability concepts through the FinSafe Idempotency Gateway
+- Building my JavaScript foundations through hands-on exercises and projects
+- Exploring AI and data-driven applications
 
 ## Tech Stack
 
