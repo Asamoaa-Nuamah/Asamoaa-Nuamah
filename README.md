@@ -1,4 +1,7 @@
 ## Hi there 👋
+# Hi, I'm Hafsa 👋
+
+I'm a Computer Engineering graduate interested in software development and building practical solutions with technology. I enjoy working with Python and backend development, and I'm currently expanding my skills in JavaScript and full stack development.
 
 <!--
 **Asamoaa-Nuamah/Asamoaa-Nuamah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
