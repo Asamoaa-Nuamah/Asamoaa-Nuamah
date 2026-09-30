@@ -1,6 +1,6 @@
 # Hello, I'm Hafsa 
 
-I'm a Computer Engineering graduate interested in software development and building practical solutions with technology. I enjoy working with Python and backend development, and I'm currently expanding my skills in JavaScript and full-stack development.
+I'm a Computer Engineering graduate interested in software development and building practical solutions with technology. I enjoy working with Python for  backend development and I'm currently expanding my skills in JavaScript and full-stack development.
 
 ## What I'm currently working on
 
