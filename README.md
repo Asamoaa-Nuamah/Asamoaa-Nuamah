@@ -48,6 +48,10 @@ A collection of exercises and projects documenting my journey as I learn JavaScr
 * 🗄️ Databases and API development
 * 🧩 Software engineering and building practical applications
 
+# 🤝 Connect with me
+
+* 💼 LinkedIn: [Hafsa Asamoaa Nuamah](https://www.linkedin.com/in/hafsa-asamoaa-nuamah)
+* 🐙 GitHub: [@Asamoaa-Nuamah](https://github.com/Asamoaa-Nuamah)
 
 
 <!--
