@@ -28,17 +28,26 @@ I'm a Computer Engineering graduate interested in software development and build
 * VS Code
 * REST APIs
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
-### 💰 Personal Expense Tracker
+## 💰 Personal Expense Tracker
 
 A Python-based expense tracking application that allows users to add, view, categorize, and calculate expenses. I'm developing it incrementally as I strengthen my Python and software engineering skills.
 
 🔗 [View Repository](https://github.com/Asamoaa-Nuamah/personal-expense-tracker)
 
-### 🌐 JavaScript Learning
+# 🌐 JavaScript Learning
 
 A collection of exercises and projects documenting my journey as I learn JavaScript fundamentals and build toward full-stack development.
+
+# 📚 Currently Learning
+
+* 🐍 Python and backend development
+* 🌐 JavaScript and full-stack development
+* 🤖 Artificial intelligence and machine learning
+* 🗄️ Databases and API development
+* 🧩 Software engineering and building practical applications
+
 
 
 <!--
