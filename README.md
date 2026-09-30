@@ -1,15 +1,15 @@
-# Hello, I'm Hafsa 👋
+## Hello, I'm Hafsa 👋
 
 I'm a Computer Engineering graduate interested in software development and building practical solutions with technology. I enjoy working with Python and backend development, and I'm currently expanding my skills in JavaScript and full stack development.
 
-# 🚀 What I'm currently working on
+## 🚀 What I'm currently working on
 
 * 🐍 Building and improving Python projects, including my Personal Expense Tracker
 * 🌐 Learning JavaScript and working toward full stack development
 * ⚙️ Strengthening my backend and software engineering skills
 * 🤖 Exploring AI and data driven applications
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -28,19 +28,19 @@ I'm a Computer Engineering graduate interested in software development and build
 * VS Code
 * REST APIs
 
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
-## 💰 Personal Expense Tracker
+### 💰 Personal Expense Tracker
 
 A Python-based expense tracking application that allows users to add, view, categorize, and calculate expenses. I'm developing it incrementally as I strengthen my Python and software engineering skills.
 
 🔗 [View Repository](https://github.com/Asamoaa-Nuamah/personal-expense-tracker)
 
-# 🌐 JavaScript Learning
+## 🌐 JavaScript Learning
 
 A collection of exercises and projects documenting my journey as I learn JavaScript fundamentals and build toward full-stack development.
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 * 🐍 Python and backend development
 * 🌐 JavaScript and full-stack development
@@ -48,7 +48,7 @@ A collection of exercises and projects documenting my journey as I learn JavaScr
 * 🗄️ Databases and API development
 * 🧩 Software engineering and building practical applications
 
-# 🤝 Connect with me
+## 🤝 Connect with me
 
 * 💼 LinkedIn: [Hafsa Asamoaa Nuamah](https://www.linkedin.com/in/hafsa-asamoaa-nuamah)
 * 🐙 GitHub: [@Asamoaa-Nuamah](https://github.com/Asamoaa-Nuamah)
