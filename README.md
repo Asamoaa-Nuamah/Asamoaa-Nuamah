@@ -45,6 +45,7 @@ A FastAPI-based payment API designed to prevent duplicate payment processing. Th
 ### JavaScript Learning
 
 A collection of exercises and projects documenting my journey as I learn JavaScript fundamentals and build toward full-stack development.
+🔗 [View Repository](https://github.com/Asamoaa-Nuamah/Javasrcipts_lessons)
 
 ## Connect with me
 
