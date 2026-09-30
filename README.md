@@ -36,9 +36,16 @@ A Python-based expense tracking application that allows users to add, view, cate
 
 🔗 [View Repository](https://github.com/Asamoaa-Nuamah/personal-expense-tracker)
 
-## 🌐 JavaScript Learning
+### 🔐 FinSafe Idempotency Gateway
+
+A FastAPI-based payment API designed to prevent duplicate payment processing. The project uses idempotency keys, SQLite persistence, request replay, and concurrent request handling, with automated tests using Pytest.
+
+🔗 [View Repository](YOUR-FINSAFE-REPOSITORY-LINK)
+
+### 🌐 JavaScript Learning
 
 A collection of exercises and projects documenting my journey as I learn JavaScript fundamentals and build toward full-stack development.
+
 
 ## 📚 Currently Learning
 
