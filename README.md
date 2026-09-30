@@ -9,6 +9,25 @@ I'm a Computer Engineering graduate interested in software development and build
 * ⚙️ Strengthening my backend and software engineering skills
 * 🤖 Exploring AI and data-driven applications
 
+# 🛠️ Tech Stack
+
+**Languages**
+
+* Python
+* JavaScript
+
+**Backend & Databases**
+
+* FastAPI
+* PostgreSQL
+* MongoDB
+
+**Tools & Technologies**
+
+* Git & GitHub
+* VS Code
+* REST APIs
+
 <!--
 **Asamoaa-Nuamah/Asamoaa-Nuamah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
