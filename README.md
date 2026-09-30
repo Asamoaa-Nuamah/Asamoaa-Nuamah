@@ -46,15 +46,6 @@ A FastAPI-based payment API designed to prevent duplicate payment processing. Th
 
 A collection of exercises and projects documenting my journey as I learn JavaScript fundamentals and build toward full-stack development.
 
-
-## Currently Learning
-
-* Python and backend development
-* JavaScript and full-stack development
-* Artificial intelligence and machine learning
-* Databases and API development
-* Software engineering and building practical applications
-
 ## Connect with me
 
 * LinkedIn: [Hafsa Asamoaa Nuamah](https://www.linkedin.com/in/hafsa-asamoaa-nuamah)
